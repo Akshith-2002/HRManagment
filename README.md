@@ -1,3 +1,2 @@
 # HRManagment
- 
-![Uploading image.png…]()
+
